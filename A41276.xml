@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second letter to the clergy and people of Norfolk and Suffolk by the author of the first, a member of the Church of England.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41276</idno><idno type="EEBO-CITATION">11322984</idno>
+  <idno type="VID">47454</idno>
+  <idno type="EEBO-PROQUEST">2248500705</idno>
+  
+            <idno type="STC">Wing F864E</idno>
+            <idno type="STC">ESTC R30450</idno>
+            <idno type="OCLC">11322984</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second letter to the clergy and people of Norfolk and Suffolk by the author of the first, a member of the Church of England.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: pages torn and cropped, with loss of print.</note>
+                  <note>Attributed by Wing to John Field.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47454:1"/>
+            <pb facs="tcp:47454:1"/>
+            <head>A Second Letter to the Clergy and People of <hi>Norfolk</hi> and <hi>Suffolk.</hi>
+            </head>
+            <byline>By the Author of the first, a Member of the <hi>Church of England.</hi>
+            </byline>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>MY former Letter I conceive, sets forth the Truth of the Matter; and tells you a way how you may soon End your difference with the <hi>Quakers,</hi> that is, to prove which of you are Christ's Ministers: After that's rightly proved, then your Business is rightly done. And as for the Charges you laid to the <hi>Quakers,</hi> of <hi>Blasphemy,</hi> &amp;c. I think some of you cleared the Men of this Ge<g ref="char:EOLhyphen"/>neration at that Dispute: Yet I find you would make these Men suffer for other Mens faults, (if there be any,) and yet call your selves Christ's Ministers, and how can this be? If you be Christ's Ministers, are you not joined with Christ in his <hi>New Covenant?</hi> If so, how dare you go about to offer such a thing, when God hath spoken to the contrary? Look Ezek. 18. 2. <hi>The Fathers have eaten sowre Grapes, and the Childrens Teeth are set on edge;</hi> and in the 3d <hi>verse,</hi> there he saith, <hi>A<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I live, saith the Lord God, ye shall not have occasion <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y more to use this Proverb in</hi> Israel: And in the 4th <hi>verse</hi> he saith, <hi>Behold all Souls are mine, as the soul of the Father, so also the soul of the Son is mine; the soul that sinneth it shall die.</hi> Now is not this spoken in order concerning the <hi>New Covenant,</hi> that God promised to make with his People in the Latter Days? And is not Christ already come to make this <hi>Covenant</hi> with his People? And did not his Apostles join with him in this <hi>New Covenant,</hi> and so all his Ministers do until this day? Where do you find that Christ or his Ministers ever went about to Parliaments or Magistrates to stir up Persecution? I Remember Christ once bid <hi>Peter</hi> put up <hi>the Sword;</hi> but I cannot Remember, that ever I read that <hi>Peter</hi> drew it again to <hi>vindicate his Master's Cause or his own.</hi> Therefore you, by thus doing, declare your selves to be out of the <hi>New Covenant;</hi> if so, you cannot be Christ's Ministers.</p>
+            <p>But now as to the proposal spoken of in my former Letter, which was for you once more to meet the <hi>Quakers,</hi> appoint your time and place, and bring some of your Fruits with you, such as can Testifie, and give in a true Testimony before God and the Country, that the Gospel which you preach, came with such Power that it hath turned them from <hi>Darkness</hi> to <hi>Light,</hi> and from the power of Satan unto God; and that they can say, <hi>they have tasted of the Good Word of God, and the Powers of the World to come; Heb.</hi> 6. In thus doing you will prove your selves Christ's Ministers: Therefore, Sirs, I pray be persuaded to come an<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appear once more; it will be much for your Credit and satisfaction to the Cou<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>try; if you do prove your selves Christ's Ministers, and what do you th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Country will say if you do not appear? Say, why what will they s<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪ They'll say you have none to bring, what can they say else? And if you do ap<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:47454:2"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you, they'll conclude you have none. Well, come, Sirs, <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Request, two or three out of every of your Parishes; I would willingly hope such a small number may be found; or else you can give but a small account of your Ministry. I pray what have you been Preaching for this twenty or thirty, nay perhaps some of you these forty Years? If you have no Fruit to shew, indeed it is very hard, and the Country must judge very hardly of you. Well, what did I say, what have you been Preaching for? Now I remember my self, perhaps I can tell you what you have been Preaching for all this while; it is <hi>Mony</hi> I warrant you: Well, if so then you are called upon the wrong matter, for per<g ref="char:EOLhyphen"/>haps you call <hi>Mony</hi> the Fruits of your Labours; and nothing being mentioned; perhaps you would have brought your Mony with you, then you would have done something; for therein no doubt but you would have outdone the <hi>Quakers,</hi> yes, and the Apostles, and Christ himself too. For I am apt to think, that some of you have got more Mony by Preaching, than Christ and all his Apostles. Well, by this it seems to me, that the Apostles and you differ very much; I think as much as White differs from Black: perhaps you may say, what do we differ in? Well, I shall tell you, I'll lay down a few particulars where<g ref="char:EOLhyphen"/>in you differ: The first is, you Preach for Ready Mony, and the Apostles Preach<g ref="char:EOLhyphen"/>ed upon Trust; perhaps you'll say how can you prove that? yes, I think I can prove it; but in the first place, I warrant, you have had your Last Years Pay for your Last Years Preaching, and is not that Ready Mony? Well, but how do the Apostles and Christ's Ministers Preach upon Trust? Well, I tell you, look into 1 Cor. 9. 16, 17. and there you shall hear what the Apostle saith, the two Verses run thus, <hi>For tho I preach the Gospel, I have nothing to glory of; for necessity is laid upon me: yea woe is it unto me, if I pr<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h not the Gospel. For if I do this thing willingly, I have a Reward; but if against my will, a dispensation of the Gospel is commit<g ref="char:EOLhyphen"/>ted unto me: what is my Reward then?</hi> even nothing. Now here <hi>Paul</hi> saith, there was a necessity laid upon him to Preach the Gospel, even the penalty of Damnation; for saith he <hi>Woe is unto me if I Preach not the Gospel.</hi> How comes it to be thus with him? Why, because Christ had before chosen him, and made him a Minister the Gospel, as you may find in the 26th of the <hi>Acts,</hi> therefore <hi>Paul</hi> dares not refuse it. But now, Sirs, is there such a necessity laid upon you, think you? If there is, then you should do as much good with your Preaching as <hi>Paul</hi> did. Hath not all Christ's Ministers Power to do Good now with the Gospel, as they had in former days? And as for Trust, look into the next Verse, he saith, <hi>Verily that when I Preach the Gospel, I may make the Gospel without Charge, that I abuse not my power in the Gospel.</hi> So we may see by this, that he did not make the Gospel Charge<g ref="char:EOLhyphen"/>able to Christ's Church, nor had he his Reward in this World: so by this he doth trust until another World. Further, he writes to <hi>Timothy</hi> in the latter part of his days, and tells him, <hi>That there is laid up a Crown for him;</hi> so that we may see his Re<g ref="char:EOLhyphen"/>ward was nothing less than a Crown: But it was not in this World. But what is the reason you dare not trust your <hi>Master,</hi> as you call him, as well as the <hi>Apo<g ref="char:EOLhyphen"/>stles</hi> and <hi>Christ's Ministers</hi> did? The reason is, as I think, because ye have not so much Faith in him as they had: <hi>So therein you differ.</hi> Now further, to let you know wherein the Apostles and you differ, <hi>Paul</hi> saith, 2 Cor. 4. 8. <hi>We are troubled on <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ery side.</hi> But for your parts, I do not know that you are troubled on any side, <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cept it is, because you cannot get Mony enough. And in the next Verse he
+<pb facs="tcp:47454:2"/> saith, <hi>they were Persecuted,</hi> and you are Persecuting, the<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I find in your Second Letter to the <hi>Quakers,</hi> that you say, we can scarce open a Book of theirs, but presently we are even frighted with such an Apparition, that sends us to our Prayers for a poor deluded People. Now, Sirs, what deluded People do you mean? do you mean your own Parishioners, or do you mean the <hi>Quakers?</hi> The thing that occasions this query is, because some of you are Preaching down Persecution, the mean while the other part of you are at <hi>London,</hi> stirring up and endeavouring to raise Persecution with all the Might and Power you can. Re<g ref="char:EOLhyphen"/>member <hi>April</hi> the 5th, and thus do you not delude your People by Preaching down the same things which you your selves practise? But, Sirs, I find your Papers do not answer your Design; and I cannot find the Reason, except it be for want of Faith; for Christ saith, <hi>Whatsoever ye ask the Father in my Name, it shall be granted, if you ask believing;</hi> therefore it is a sign you have no Faith: And there<g ref="char:EOLhyphen"/>fore you are forced to take another way. For I find in one of your Papers, where you say, <hi>That you and your Ministers are willing to permit Mr.</hi> Bugg <hi>to come amongst them to try if he could Conjure down that Busie Spirit which possesses the</hi> Quakers, <hi>and is so troublesome to us.</hi> Now, Sirs, I cannot read where-ever the Apostles took this way to remove Spirits by Conjuration: The way that they took was by the Power of the Holy Ghost, as you may see in the 16th of the <hi>Acts,</hi> concern<g ref="char:EOLhyphen"/>ing a Maid that was possessed with an Evil Spirit; <hi>Paul</hi> being grieved, turned and said to the Spirit, <hi>I command thee in the Name of Jesus Christ to come out of Her, and he came out of her in the same hour.</hi> This is the way the Apostle took, and not by Conjuration: therefore the Apostles and you differ much, and by this you declare your selves to be none of Christ's Ministers.</p>
+            <p>Sirs, since I have a little further considered, I find I have begun at the wrong End of my Work, for to shew wherein Christ's Ministers and you differ; had I begun at the other End, I should sooner have done, that is to say, wherein do Christ's Ministers and you agree and comply together. I have considered of that Matter, and I cannot find that you and they agree in any point but in one, or that you are at all like them but only in that one; I do not mean that you are altogether like <hi>Peter,</hi> when he denied his Master, for he went out and wept bit<g ref="char:EOLhyphen"/>terly, and repented; but I cannot hear that ever you repented yet.</p>
+            <p>Well, Sirs, you are here desired to meet the <hi>Quakers</hi> once more, and bring your Fruits with you, but this is but the desire of a Man: But yet there is a day com<g ref="char:EOLhyphen"/>ing, when you shall be called by him that is higher than the highest that is here, when the Tru<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pet shall sound that Alarm, <hi>Arise ye Dead and come to Judgment;</hi> as in 1 <hi>Thes.</hi> 4. 16. there he saith, <hi>For the Lord himself shall descend from Heaven with a shout, with the voice of the Archangel, and with the trump of God▪ and the dead in Christ shall rise first.</hi> Well, Sirs, now, you may refuse this above-mentioned Call; but when the Lord shall come to call, you cannot refuse, but go you must. <hi>John</hi> saith in the 20th Chapter of the <hi>Revelations, I saw the dead, small and great stand before God:</hi> Therefore by what's said, it seems you must appear before that Judgment Seat, be as great here as you will, as <hi>Paul</hi> saith in 2 Cor. 5. 10. <hi>For we must all appear before the Judgment Seat of Christ, that every one may Re<g ref="char:EOLhyphen"/>ceive the things done in his body, according to that he hath done, whether it be good o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bad.</hi> Here you may see what you are to appear for, that is, for to give an a<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>count what you have been a doing the time you lived in this World: W<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> can you say, have not you pretended to be Labourers in Christ's Harvest? <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:47454:3"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will be required at your Hands? Hear what <hi>David</hi>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>Psalm</hi> 126. <hi>They that sow in Tears, shall reap in Joy.</hi> And in the next Verse, <hi>He that goeth forth, and weepeth, bearing precious seed; shall doubtless come again with rejoicing, bringing his sheaves with him.</hi> This Prophesie hath a relation unto God's People, how they are to be a disquieted and a perse<g ref="char:EOLhyphen"/>cuted People here, but when they come into another World, then is their time of Rejoicing, but not without bearing Precious Seed; but that Seed must be sown in this World, as you know Christ is speaking in his Parable of the four sorts of Ground where the Seed was sown, <hi>Matth.</hi> 13. No doubt but the Seed was all good, and all one sort of Seed; but where the Ground was good it brought forth <hi>some an hundred fold, and some fifty, and some thirty fold;</hi> and that was to grow in this World, and shew it self here, and groweth here until the time of Harvest. Here Christ is calling his Ministers Seedsmen, which are to sow the Go<g ref="char:EOLhyphen"/>spel in this World: And if it be the right and true Gospel the Apostles preached, it shall bring forth some precious Fruit in this World. Perhaps you may say the Seed is good, but the Ground is bad. I confess the Ground may not be all good, for Christ doth speak of bad Ground as well as good; but he doth not say but there is good Ground: And Seed that fell upon good Ground, brought forth much Fruit, being good; but is it not a great sign of your Seed being very had by reason none can appear? For why, other Seedsmen have sown upon the same Ground that some of you have sown upon, and their seed hath pro<g ref="char:EOLhyphen"/>spered, and hath brought forth much Fruit; the Truth whereof you may prove, if you will but challenge the <hi>Quakers</hi> once more to meet, and bring some of their Fruits with them; and then you shall see, and the Country may see which of your two Seeds are best. For why, some of you have been sowing upon the same Ground that their Seed springs upon, and bringeth forth much Fruit. Well, Sirs, you know if no Seed grow, no Sheaves can be had; then what account will those Seedsmen and Labourers give, when the Fruits of their Labours shall be required at their hands, by him whom they call their Master.</p>
+            <p>Well, Sirs, this account is not to be given until Death have made a separation, for when Death doth come, it will make a very strange alteration; for in the World to come, things will appear otherwise than they do now; for he that Weeps here, may Rejoice there, and he that Rejoices here, may Mourn there. For why, <hi>David</hi> saith in that forementioned place, <hi>he that goeth forth and weepeth, bareing precious Seed;</hi> but they must bare pre<g ref="char:EOLhyphen"/>cious Seed, tho they weep in this World: But when Death comes, then it makes its alteration; then <hi>David</hi> saith, <hi>he shall come again with Rejoycing, and bringing his Sheaves with him;</hi> but if no Sheaves, I fear these Men will have no cause to Re<g ref="char:EOLhyphen"/>joice. Well but this is not all, for Death may make a Rich Man a Poor One, and it may make a Poor Man a Rich One. Look into the 16th of <hi>Luke,</hi> there Christ is speaking of a <hi>Rich Man clothed in Purple, and fine Linnen, who <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ared sum<g ref="char:EOLhyphen"/>ptuously every day:</hi> This Man in this World lived bravely and richly: And Christ saith again, <hi>there was a certain Begger named</hi> Lazarus, <hi>which was laid at his Gate full of Sores, and desired to be<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed with the C<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbs that <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell from the Rich Mans Table, and <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Dogs came and licked his Sores;</hi> signifying the Dogs had more pity than the Rich Man had. Now here you may see poor <hi>Lazarus</hi> a begging of Rich <hi>Dives;</hi> but <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrist saith the Poor Man died, and was carried by the Angels into <hi>Abraham</hi>'s Bo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e; and the Rich Man died also, and in Hell he lift up his Eyes being in
+<pb facs="tcp:47454:3"/> Torment, and there seeing <hi>Lazarus</hi> afar off in <hi>Abraham</hi>'s Bo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Father</hi> Abraham, <hi>send</hi> Lazarus <hi>to dip the tip of his Finger in Water and cool my Tong<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for I am grievously tormented in this Flame.</hi> Now here we may see Poor <hi>Dives</hi> b<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, but his Request could not be granted, no more than <hi>Lazarus</hi>'s was grant<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in this World: So thus we may see what Change Death may make between thi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, and that which is to come. But now hear the Answer of <hi>Abraham, Son,</hi> saith he, <hi>thou in thy life-time hadst thy good things, and</hi> Lazarus <hi>his Evil Things; but now he is Comforted, and thou art Tormented.</hi> So now Gentlemen I shall say no more to this matter at present, but shall turn to my Countrymen and Neighbours.</p>
+            <p>Well, Neighbours, let us seriously consider this Matter: And let us see what Teachings we sit under, for I am of the <hi>Church of England,</hi> as well as you, and never joined my self with any other, neither do intend it if they prove themselves the true Ministers of Christ; but if they do not, then I pray hear what Christ saith in <hi>Matt.</hi> 15. when his Disciples were telling him, the <hi>Pharisees were offended after they heard this saying:</hi> So perhaps our Ministers may be offended after they have read this Paper. But what then? hear what Christ saith in the 14th Verse, <hi>Let them alone,</hi> saith he, <hi>they be Blind Leaders of the Blind, and if the Blind lead the Blind, both shall fall into the Ditch.</hi> Now pray let us seriously consider whom we are lead by; I have been shewing a little before of one that we may suppose was blindly led; for it seems he never knew where he was until in Hell he lift up his Eyes, then he saw himself in the Ditch; but when he was once in, he could by no means get out again: So now, whilst we are here this is our time to look about us. Come and I'll tell you a way how you may know whether these Ministers that we <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it under be the true Ministers of Christ: You know they have been desired to meet the <hi>Quakers</hi> once more, and to bring some of their Fruits with them: Such as can give in a true Testimony before God and the Country, such as can truly say, that by the Gospel that these Men preached, they have been turned from <hi>Darkness to Light, and from the power of Satan to God.</hi> Now suppose you should be desired to come and give in your Testimony before God and th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country, can you come up with truth and boldness, and say, there is such a Chang<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made in us by their Preaching, then you are the Men that can say we have tasted o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the good word of God, and of the Power of the World to come; then you do not prov<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them Christ's Ministers only, but you prove your selves true Christians. Now, my dear Neighbours, if I should be desired to come upon this matter, I dare not come, though I have sat under their Preachings 20 or 30, nay perhaps 40 years, and yet I do not fin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I know ever a whit the more of my Salvation for any thing I have heard of the<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ Yet if perhaps I was called upon that account, and durst come, no doubt but I could fin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words that would satisfie the Assembly, but what then, it must be with a Li<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ And I tell you, Sirs, it is very dangerous telling of a Lie. I rememb<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Apostles when they went about at first to preach the Gospel, that the Gos<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worked so wonderfully with their Converts, that they sold their Possessions, <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought the Money, and laid it down at the Apostles Feet, <hi>Acts</hi>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪ and there was one Ananias <hi>with</hi> Sapphira <hi>his Wife, sold a Possession,</hi>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they would do as the rest did; but their Faith was not so great as the rest w<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>for they kept back a certain part, and brought the rest to the Apostles:</hi> But <hi>Peter <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ananias, why hath Satan filled thy heart to lie unto the Holy Ghost; and he presen<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> down dead.</hi> So we may see it was not for keeping the Mony back, for <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> saith, <hi>was it not thy own?</hi> Yes before it was sold, and after it was sold; th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:47454:4"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> p<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eased with it, it was for telling a Lie. Read a little further, and you shall see what <hi>Peter</hi> saith, <hi>thou hast not lied unto Men, but unto God.</hi> Here, is shewn the danger of telling a Lie before God: Well, my Friends, I do not tell you this, because I would not have you meet the <hi>Quakers</hi> again, if desired, but only be careful of a Lie.</p>
+            <p>Come Sirs, now I tell you some News, and it is good News, the best that ever came into the World; we are all invited to a Wedding, and it is an honourable one too, no less than a King's Son; and we are also honourably invited, by no less Person than the King himself: Perhaps you will say, when, and where were we invited? Come I'll tell you where, and when we were invited; and withal, what Dainties we shall have there. As to the invitation, see <hi>Isaiah,</hi> 55. 1, 2. <hi>Ho, every one that thirsteth, come ye to the waters, and he that hath no mony, come ye buy and eat: come ye buy Wine and Milk without mony, and without price:</hi> Here you may see when it was, it was in the time of <hi>Isaiah;</hi> Perhaps some may say this Prophesie was spoke to none but <hi>Israel;</hi> but I'll tell you it was spoken to us as well as them, now in this our Gospel-day; for there you may read <hi>every one that thirsteth:</hi> Do you thirst? If you do, then it is spoken to you: But look down a little further into the 5th Verse of the same Chapter, where he saith, <hi>Behold, thou shalt call a Nation that thou knowest not, and Nations that knew not thee, shall run unto thee.</hi> Now, Sirs, are not these us <hi>Gentiles</hi> that he speaketh of there? Yes surely: Well, I was telling you, what sort of Dainties we shall have at that Great Feast. You see in the 1st Verse he tells us of <hi>Wine and Milk;</hi> and in the next Verse he tells us of <hi>Bread.</hi> Now look into the 26th Chapter of <hi>Isaiah</hi> and the 6th Verse, there he saith, <hi>And in this Mountain shall the Lord of Hosts make unto all people,</hi> (I pray mind this little word <hi>all) a feast of fat things, a feast of Wine on the Lees; of fat things full of Marrow, of Wines on the Lees, well refined.</hi> Here you may see something of your Chear, all of the best sort: Perhaps some may say this invitation was made many years ago; how shall we know when this Feast is ready? Come I'll tell you how you shall know when all things are ready. Look into Matth. 22. the 2d verse, there he saith, <hi>The Kingdom of Heaven is like unto a certain King, which made a Marriage for his Son; and sent forth his Servants to call them that were bidden to the Wedding, and they would not come.</hi> Thus we may see that Prophesie in the 55th of <hi>Isaiah,</hi> had a relation to two sorts of People, that is, <hi>Jews</hi> and <hi>Gentiles;</hi> and when Christ came into the World, you know he declared himself first to the <hi>Jews,</hi> but they refused him; but now he is speaking of sending forth other Servants, yet they were to go to the <hi>Jews;</hi> these must be the Apostles, after his ascen<g ref="char:EOLhyphen"/>tion, which he calls these other Servants; for while he sendeth them, as it were, about another Message, as in the 4th Verse, <hi>Again he sent forth other Servants, saying, tell them which are bidden, behold I have prepared my Dinner; my Oxen and my Fatlings are kill<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and all things are ready, come unto the Marriage; but they made light of it;</hi> as you may <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee the <hi>Jews</hi> would have none of this Wedding Chear, which is the Gospel, nor would <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ffer the Gospel to be preached to them; as he saith in the 6th Verse, <hi>And the Remnant <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ok his Servants, and entreated them spitefully, and slew them:</hi> Were not the Apostles very <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dly treated by the <hi>Jews,</hi> and you know some of them were killed by them? <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t now read the next verse, and you shall hear how these Murderers came <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; <hi>But when the King knew of it, he was wroth, and he sent forth his Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and destroyed those Murderers, and burnt up their City.</hi> Now is not <hi>Jerusalem</hi>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oyed, and the <hi>Jews</hi> scattered about into all Nations? Now doth not Christ send <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Messengers to the <hi>Gentiles,</hi> in that 9th <hi>verse,</hi> where he saith; <hi>Go ye therefore in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> High-ways, and as many as ye shall find bid to the Marriage. So these Servants went</hi>
+               <pb facs="tcp:47454:4"/>
+               <hi>out into the High-ways, and gathered together all as many as they found, both good and bad, <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Wedding was furnished with Guests.</hi> Doth not he mean here us <hi>Gentiles,</hi> and are no<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these Messengers his Ministers, which he sendeth amongst us to Preach the Gospel? S<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now we may see, that we are Invited to this Wedding: Come, what say ye? are you willing to go to this great Feast? You hear you shall have great Dainties; for he saith, His Oxen and his Fatlings are kill'd; and you are Invited to come, no doubt but you shall be exceeding Wellcome, if you will but go. Perhaps some may say, Yes, I am willing to go: but, I pray, whether shall we go? Come, I'll tell you whether ye should go: Take Christ's advice, <hi>Mat.</hi> 7. <hi>ver.</hi> 7. there He saith, <hi>Seek and ye shall find; knock and it shall be opened unto you.</hi> Perhaps some may say, but where shall we seek? I'll tell you where; you must seek where Christ's Messengers are: You say, where shall we find them? <hi>Where the Gospel is freely Preached.</hi> Look again into that 55th of <hi>Isaiah,</hi> and there you shall see, you must come to a free Preaching; for there He saith, <hi>And he that hath no Mony, come.</hi> So you may see, that you may have of this good Chear, which is the Gospel, without Mo<g ref="char:EOLhyphen"/>ney, and without Price. Here you see you are not to ask the Price of the Gospel; for the Gospel is the Gift of God. Come Sirs, and I will show you the danger of offering Money for the Gift of God: Look into the 8th Chapter of the <hi>Acts,</hi> you may see there, in the 18th <hi>verse,</hi> and so on, that <hi>Simon</hi> proffered the Apostles Money; saying, <hi>Give me also this Power, that on whomsoever I lay hands, he may receive the Holy Ghost.</hi> But <hi>Peter</hi> said unto him, <hi>Thy Money perish with thee, because thou hast thought that the Gift of God may be purchased with Money.</hi> You may see that it is dangerous to proffer Money for the Gospel; therefore it is to be free. My Friends, you may see this is no Money-Wedding, whatever our Ministers tell us. Look into <hi>Isa.</hi> 55. <hi>ver.</hi> 2. and there God saith, <hi>Wherefore do ye spend Money for that which is not Bread, and your la<g ref="char:EOLhyphen"/>bour for that which satisfieth not?</hi> Here you may see, God doth check you with a <hi>Where<g ref="char:EOLhyphen"/>fore</hi> do you spend your Money for that that is not Bread.</p>
+            <p>Now, Sirs, let us look into our selves, and consider whether we can perceive that we are better'd for all the Money that we have been forced to pay our Ministers for their Gospel; see, is it Bread, doth it feed our Souls? If it doth, it hath made a great al<g ref="char:EOLhyphen"/>teration in us; but if we find no alteration in our selves, then we may be sure these are not the Messengers which Christ hath sent out to invite us to his Feast. Therefore stay longer to gather Grapes of Thorns, or Figs of Thistles, but hear another Call that God giveth you, in that above-mentioned Chapter, <hi>ver.</hi> 3. <hi>Incline your Ear, and come unto me, saith God; hear, and your Soul shall live.</hi> Come, Sirs, have you any Faith? here you see God calls you, and come unto me, saith God. there is his Call; and then he saith; <hi>Hear, and your Souls shall live.</hi> Is not this an absolute Promise, that your Soul shall live? Yea, and here is another Promise going along with it, and here he tells yo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>He will make an Everlasting Covenant with you.</hi> Sirs, what would you have more? O<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ what shall I say more? well, what do you think to do? will you stay where you are, o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will you come at Christ's Call? Perhaps, some may say, why, I think we have the Go<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pel Preached very well where we are: well, do you think so? I pray, how much are yo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> better'd for what you hear? Come, I will direct you to one Chapter more, which is <hi>J<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 23. and I would desire you to read that Chapter thro' at your leisure; where you sh<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> see what God saith concerning the false Prophets; I pray hear what God saith in <hi>ver.</hi>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Is not my Word like as a fire, saith the Lord, and like a Hammer that breaketh the Ro<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pieces?</hi> What do you think he meaneth here? Doth he not mean by this Fire, tha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to burn up, and consume Evil Imaginations, which hindreth us from follow<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:47454:5"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as we ought to do. You see, he hath compared his Word, which is the <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to a Hammer, to break the Rocks in pieces. What doth he mean by these <hi>Rocks?</hi>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he not mean our flinty and hard Hearts, and to make a thorow Change in all our Minds and Actions; according to that saying of the Apostle, where he saith; <hi>Old things are passed away, and lo all things are become new.</hi> Now, can we say, that the Gospel which we have been hearing, hath made this thorough Change in us? if not, you may be sure they are none of Christs Messengers which he sent to Invite us to his Feast. Come, look once more into that fore-mentioned Chapter, and the latter part of the Verse, and let us hear what God himself saith: <hi>Yet I sent them not, nor commanded them; there<g ref="char:EOLhyphen"/>fore they shall not profit the People at all, saith the Lord.</hi> Here you may see what God saith, if you will believe him; that if they be not sent by him, they shall not Profit the People at all, which too many in this Nation do Experience, I am afraid. Come, Sirs, I have one thing more to tell you of, and then I have done, and that is a thing must be had, namely, a <hi>Wedding Garment,</hi> or else there can be no admittance into the Wed<g ref="char:EOLhyphen"/>ding Chamber; and besides, there is no Man can help you to it, but the Master of this Feast, who sendeth forth his Messengers to Invite his Guests: Look into the 11, 12, and 13 <hi>Verses</hi> of that 22 Chap. of <hi>Mat.</hi> and there you shall hear what the King saith. <hi>And when the King came to see the Guests, he saw there a Man which had not on a Wedding Garment; and he said unto him, Friend, how camest thou in hither, not having a Wedding Gar<g ref="char:EOLhyphen"/>ment? And he was speechless: then said the King to the Servants, bind him hand and foot, and take him away, and cast him into utter darkness, there shall be weeping and gnashing of teeth; for many are called, but few are chosen.</hi> Thus, my Neighbours, you may see for want of this Wed<g ref="char:EOLhyphen"/>ding Garment, though you be called, yet you may not be chosen to be one that shall en<g ref="char:EOLhyphen"/>ter into the Marriage-Chamber. I have told you before, how God hath Invited you to come, and how Christ hath called you. So you may see, that Christ and his Apostles have proffered Salvation to you, if you will but accept of it. See that one loving Call more of Christ, in <hi>Rev.</hi> 22. 17. where he saith, besides what you have heard; yet, saith he, <hi>And the Spirit and the Bride say, Come; and let him that heareth, say, Come; and let him that is a thirst, Come; and whosoever will, let him take the Water of Life freely.</hi> You see, there is no less than three <hi>Comes</hi> in this verse. And so look once more into <hi>John</hi> 6. 37. and you may hear what Christ himself saith there, <hi>All that the Father giveth me, shall come to me; and him that cometh to me, I will in no wise cast out.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47454:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
